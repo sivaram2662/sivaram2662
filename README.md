@@ -25,6 +25,7 @@ I'm a DevOps Engineer
   <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-CC6699?style=flat-square&logo=ArgoCD&logoColor=white" />
   <img alt="My Sql" src="https://img.shields.io/badge/-My Sql-db7092?style=flat-square&logo=My Sql&logoColor=white" />
   <img alt="Nexus" src="https://img.shields.io/badge/-Nexus-F05032?style=flat-square&logo=Nexus&logoColor=white" />
+  <img alt="Helm" src="https://img.shields.io/badge/-Helm-F05032?style=flat-square&logo=Helm&logoColor=white" />
   <img alt="SonerQuebe" src="https://img.shields.io/badge/-SonerQuebe-CB3837?style=flat-square&logo=SonerQuebe&logoColor=white" />
 </p>
 <h3>Connect with me:</h3>
