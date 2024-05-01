@@ -27,6 +27,11 @@ I'm a DevOps Engineer
   <img alt="Nexus" src="https://img.shields.io/badge/-Nexus-F05032?style=flat-square&logo=Nexus&logoColor=white" />
   <img alt="SonerQuebe" src="https://img.shields.io/badge/-SonerQuebe-CB3837?style=flat-square&logo=SonerQuebe&logoColor=white" />
 </p>
+<h3>Connect with me:</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/sivarami-reddy-d-977022257/"><i>LINKEDIN</i></a></li>
+  <li><a href="https://www.instagram.com/sky_line_devops/"><i>Instagaram</i></a></li>
+</ul>
 
 <h3>My GitHub contributions summary</h3>
 
