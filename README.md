@@ -15,11 +15,11 @@ I'm a DevOps Engineer
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-45b8d8?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-DD0031?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-be3d19?style=flat-square&logo=Github&logoColor=white" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=Gitlab&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Jenkins&logoColor=white" />
   <img alt="K8s" src="https://img.shields.io/badge/-K8s-43853d?style=flat-square&logo=K8s&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-5849BE?style=flat-square&logo=Maven&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform%20GraphQL-311C87?style=Terraform&logo=Terraform-graphql&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform%20GraphQL-311C87?style=Terraform&logo=Terraform&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-E10098?style=flat-square&logo=Ansible&logoColor=white" />
   <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-CC6699?style=flat-square&logo=ArgoCD&logoColor=white" />
