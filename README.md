@@ -1,5 +1,14 @@
-### Hi there 👋
+### 👋 Hi there, I'm SivaRami Reddy!
 
+---
+
+![](https://komarev.com/ghpvc/?username=sivaram2662&color=fb4362)
+
+<h3>When I code, I rely on</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/-aws-f7df1c?style=flat-square&logo=aws&logoColor=red" />
+</p>
 <!--
 **sivaram2662/sivaram2662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
