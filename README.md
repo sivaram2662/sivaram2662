@@ -1,56 +1,35 @@
-### 👋 Hi there, I'm SivaRami Reddy!
 
-I'm a DevOps Engineer
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+<h1 align="center">Hi 👋, I'm Sivarami Reddy</h1>
 
----
+<h3 align="center">DevOps Engineer focused on automation and cloud technologies.</h3>
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-![](https://komarev.com/ghpvc/?username=sivaram2662&color=fb4362)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaram2662-devops&label=Profile%20views&color=0e75b6&style=flat" alt="sivaram2662" /> </p>
 
-<h3>SKILLS</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="aws" src="https://img.shields.io/badge/-aws-f7df1c?style=flat-square&logo=aws&logoColor=red" />
-  <img alt="Devops" src="https://img.shields.io/badge/-Devops-7953b3?style=flat-square&logo=Devops&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=Linux&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-45b8d8?style=flat-square&logo=Docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-DD0031?style=flat-square&logo=Git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-be3d19?style=flat-square&logo=Github&logoColor=white" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-30a8ff?style=flat-square&logo=Gitlab&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-ff62f6?style=flat-square&logo=Jenkins&logoColor=white" />
-  <img alt="K8s" src="https://img.shields.io/badge/-K8s-43853d?style=flat-square&logo=K8s&logoColor=white" />
-  <img alt="Maven" src="https://img.shields.io/badge/-Maven-5849BE?style=flat-square&logo=Maven&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-311C87?style=Terraform&logo=Terraform&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-E10098?style=flat-square&logo=Ansible&logoColor=white" />
-  <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-CC6699?style=flat-square&logo=ArgoCD&logoColor=white" />
-  <img alt="My Sql" src="https://img.shields.io/badge/-My Sql-db7092?style=flat-square&logo=My Sql&logoColor=white" />
-  <img alt="Nexus" src="https://img.shields.io/badge/-Nexus-F05032?style=flat-square&logo=Nexus&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/-Helm-F05032?style=flat-square&logo=Helm&logoColor=white" />
-  <img alt="SonerQuebe" src="https://img.shields.io/badge/-SonerQuebe-CB3837?style=flat-square&logo=SonerQuebe&logoColor=white" />
+- 🔭 I’m currently working on [Cloud Engineer]
+
+- 🌱 I’m currently learning **Kubernetes && Docker**
+
+- 💬 Ask me about **DevOps, Cloud Computing (AWS,), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services,MySQL, SQL, HTML**
+
+- 📫 How to reach me **sivaramireddy2662@gmail.com**
+
+- ⚡ Fun fact **Live&Love&Laugh**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sivarami-reddy-d-977022257/](https://www.linkedin.com/in/sivarami-reddy-d-977022257/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sivarami-reddy-d-977022257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sivarami-reddy-d-977022257/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sky_line_devops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sky_line_devops/" height="30" width="40" /></a>
 </p>
-<h3>Connect with me:</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/in/sivarami-reddy-d-977022257/"><i>LINKEDIN</i></a></li>
-  <li><a href="https://www.instagram.com/sky_line_devops/"><i>INSTAGRAM</i></a></li>
-</ul>
 
-<h3>My GitHub contributions summary</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sivaram2662&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaram2662&show_icons=true&locale=en&layout=compact" alt="sivaram2662" /></p>
 
-![sivaram GitHub stats](https://github-readme-stats.vercel.app/api?username=sivaram2662&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaram2662&show_icons=true&locale=en" alt="sivaram2662" /></p>
 
-<!--
-**sivaram2662/sivaram2662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaram2662&" alt="sivaram2662" /></p>
