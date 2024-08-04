@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Cloud Engineer]
 
-- 🌱 I’m currently learning **Kubernetes && Docker**
+- 🌱 I’m currently learning **Kubernetes && Helm **
 
-- 💬 Ask me about **DevOps, Cloud Computing (AWS,), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services,MySQL, SQL, HTML**
+- 💬 Ask me about **DevOps, Cloud Computing (AWS,), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MySQL, SQL, HTML**
 
 - 📫 How to reach me **sivaramireddy2662@gmail.com**
 
-- ⚡ Fun fact **Live&Love&Laugh**
+- ⚡**Live&Love&Laugh**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sivarami-reddy-d-977022257/](https://www.linkedin.com/in/sivarami-reddy-d-977022257/)
 
